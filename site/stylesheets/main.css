@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+/* ---- custom css and @apply components go here ---- */
+
+body {
+	margin: 0 auto;
+}
+
+h1 {
+	color: red;
+}
+
+@tailwind utilities;
