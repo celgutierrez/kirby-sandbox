@@ -1,5 +1,5 @@
 # Kirby Sandbox
-I use this repo to play around with local [Kirby CMS](https://getkirby.com/docs/guide/quickstart) 
+Sandbox where I play around with local [Kirby CMS](https://getkirby.com/docs/guide/quickstart) 
 
 ## this project uses:
 * Tailwind CSS
